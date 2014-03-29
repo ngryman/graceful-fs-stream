@@ -6,12 +6,12 @@
 
 > Graceful filesystem streams.
 
-Provides both readable and writable filesystem streams that open the file on **first read or write**.
+Provides both readable and writable filesystem streams that open files on **first read or write**.
 
 Because stream producers are not always stream consumers, it can be useful to create a stream without worrying if data
-has ever been read or written.
-It lazy opens or creates files. So it ensures a loose coupling between stream creation and file opening or creation.
-This can be useful in various use case where you can to create streams without accessing the file system yet.
+has ever been read or written.<br>
+`gfs` lazy opens or creates files. So it ensures a loose coupling between stream creation and file opening or creation.
+This can be useful in various use cases where you want to create streams without accessing the file system yet.
 
 ## Installation
 
