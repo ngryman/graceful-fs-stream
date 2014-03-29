@@ -1,6 +1,6 @@
 # graceful-fs-stream
 
-[![NPM](http://img.shields.io/npm/v/stores.svg)](https://www.npmjs.org/package/stores) [![Build Status](http://img.shields.io/travis/ngryman/stores.svg)](https://travis-ci.org/ngryman/stores) [![Dependency Status](http://img.shields.io/gemnasium/ngryman/stores.png)](https://gemnasium.com/ngryman/stores) [![Gittip](http://img.shields.io/gittip/ngryman.svg)](https://www.gittip.com/ngryman/)
+[![NPM](http://img.shields.io/npm/v/graceful-fs-stream.svg)](https://www.npmjs.org/package/graceful-fs-stream) [![Build Status](http://img.shields.io/travis/ngryman/graceful-fs-stream.svg)](https://travis-ci.org/ngryman/graceful-fs-stream) [![Dependency Status](http://img.shields.io/gemnasium/ngryman/graceful-fs-stream.png)](https://gemnasium.com/ngryman/graceful-fs-stream) [![Gittip](http://img.shields.io/gittip/ngryman.svg)](https://www.gittip.com/ngryman/)
 
 <br>
 
