@@ -1,5 +1,7 @@
 # graceful-fs-stream
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/graceful-fs-stream.svg)](https://greenkeeper.io/)
+
 [![NPM](http://img.shields.io/npm/v/graceful-fs-stream.svg)](https://www.npmjs.org/package/graceful-fs-stream) [![Build Status](http://img.shields.io/travis/ngryman/graceful-fs-stream.svg)](https://travis-ci.org/ngryman/graceful-fs-stream) [![Dependency Status](http://img.shields.io/gemnasium/ngryman/graceful-fs-stream.png)](https://gemnasium.com/ngryman/graceful-fs-stream) [![Gittip](http://img.shields.io/gittip/ngryman.svg)](https://www.gittip.com/ngryman/)
 
 <br>
